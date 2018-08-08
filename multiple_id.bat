@@ -1,0 +1,1 @@
+curl -k --data "apikey=[your_personal_api_key]&id=5,23,42" https://vuldb.com/?api

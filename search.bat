@@ -1,0 +1,1 @@
+curl -k --data "apikey=[your_personal_api_key]&search=Microsoft%20Windows" https://vuldb.com/?api

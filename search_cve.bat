@@ -1,0 +1,1 @@
+curl -k --data "apikey=[your_personal_api_key]&advancedsearch=cve:CVE-2014-6271" https://vuldb.com/?api

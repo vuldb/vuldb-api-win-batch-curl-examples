@@ -1,0 +1,1 @@
+curl -k --data "apikey=[your_personal_api_key]advisory_date=20180211" https://vuldb.com/?api
